@@ -4,6 +4,9 @@ app_publisher = "Thais Silva"
 app_description = "Appointment diary system"
 app_email = "thais.andrezza.g.s@gmail.com"
 app_license = "mit"
+calendar_js = {
+    "Appointment": "public/js/appointment_calendar.js"
+}
 
 # Apps
 # ------------------
